@@ -84,3 +84,5 @@ let fact = "is cool!"; // Change this line
 fact = "is awesome!";
 console.log(FCC, fact); // Change this line
 ```
+
+#### Done 1 - 10 
