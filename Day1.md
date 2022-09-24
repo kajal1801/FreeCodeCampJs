@@ -1,4 +1,5 @@
 # Day 1
+#### Done 1 - 10 
 
 ### Things I learnt:
 
@@ -85,4 +86,8 @@ fact = "is awesome!";
 console.log(FCC, fact); // Change this line
 ```
 
-#### Done 1 - 10 
+## Summary:
+
+- We can use var, let or const for declaring variables. Each have their own significance. 
+- All const variables have to be CAPITALIZED
+- We use camelCase for naming variables.
