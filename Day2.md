@@ -4,6 +4,8 @@
 
 - Scope
 - Global Scope
+- Local Scope
+- let vs var
 
 #### Scope:
 
