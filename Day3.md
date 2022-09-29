@@ -4,8 +4,10 @@
 
 - forEach
 - map
+- filter
+- reduce
 
-#### ForEach
+### ForEach
 
 ```
 const a = [1, 2, 3];
@@ -17,7 +19,7 @@ a.forEach((value, index, array) => {
 - Doesn't returns anything.
 
 
-#### Map
+### Map
 
 ```
 let arr = [45, 23, 21];
@@ -30,7 +32,7 @@ arr.map((value) => {
 - map looks like forEach but in forEach we just iterate through the array and don't create a new array.
 - Returns an Array.
 
-#### Filter
+### Filter
 
 ```
 let arr = [45, 23, 21, 0, 3, 5];
@@ -44,7 +46,7 @@ console.log(a);
 - It doesn't modifies the original array.
 - Return an array.
 
-#### Reduce
+### Reduce
 
 ```
 let arr = [1, 2, 3, 5, 2, 1];
