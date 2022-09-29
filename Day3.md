@@ -2,10 +2,10 @@
 
 ### Concepts
 
-- forEach
-- map
-- filter
-- reduce
+- forEach()
+- map()
+- filter()
+- reduce()
 
 ### ForEach
 
